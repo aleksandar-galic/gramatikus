@@ -1,0 +1,6 @@
+Entiteti i koncepti
+
+Infinitivna Osnova za "TI" glagole - odbije se TI.
+Infinitivna Osnova za "STI" i "ĆI" glagole - uzima se prvo lice jednine aorista tih glagola i odbije se OH.
+Infinitivna i prezentska osnova kod glagola koji se završavaju na TI, a ispred tog nastavka imaju vokal ista je
+Prezentska osnova - gradi se tako što se od prezenta prvog lica množine odbije nastavak MO.
